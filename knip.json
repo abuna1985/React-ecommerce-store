@@ -1,0 +1,3 @@
+{
+  "ignore": ["package.json", ".prettierrc.json", "eslint.config.js"]
+}
